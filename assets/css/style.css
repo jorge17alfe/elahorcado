@@ -1,0 +1,26 @@
+:root {
+    --color_primary: #2733a5;
+    --color_second: #6071be;
+    --color_third: rgb(180, 190, 237);
+    --color_hover_primary: hsl(240, 2%, 41%);
+    --color_textos: #01012dd5;
+    --color_fondo: hsla(229, 42%, 56%, 0.102);
+    --letra_londrina: "Londrina Shadow", cursive;
+  }
+  
+  * {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  .logo{
+  color: var(--color_primary);
+  font-family: "Londrina Shadow", cursive;
+  font-weight: 1000;
+  cursor: pointer;
+}
+.logo:hover {
+    color: none;
+    transform: scale(1.1);
+    transition: transform 1s;
+  }
