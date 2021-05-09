@@ -1,0 +1,23 @@
+{
+  "name": "ahorcado",
+  "version": "1.0.0",
+  "description": "game \"The Hangman\"",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jorge17alfe/elahorcado.git"
+  },
+  "keywords": [
+    "the",
+    "hangman"
+  ],
+  "author": "jl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jorge17alfe/elahorcado/issues"
+  },
+  "homepage": "https://github.com/jorge17alfe/elahorcado#readme"
+}
